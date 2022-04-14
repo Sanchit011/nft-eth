@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+# Mint Your Own NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+- Alows users to connect their wallet and mint some NFTs
+- The NFTs will live on the ethereum testnet Rinkeby. :) I am not rich enough to deploy on mainnet
+- The NFTs are a little offensive. Can be funny if you are a weeb
+- That would be it go ahead and mint some to see whcih NFT are you gonna get
 
-Try running some of the following tasks:
+check it out - https://nft-eth.sanchitsharma10.repl.co/
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+this is the link to my replit workspace for this project's source code https://replit.com/@SanchitSharma10/nft-eth#
